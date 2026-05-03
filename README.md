@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🚀 Welcome!
 
-<!--
-**LucaMunozGarcia/LucaMunozGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting this repository.
 
-Here are some ideas to get you started:
+## ℹ️ About this Page
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is one of my **main pages**, but it does **not fully represent all of my projects and content**.
+
+👉 Some features, updates, and detailed information may be missing here.
+
+## 🔗 For the full experience
+
+Please visit my central main page:
+
+➡️ https://lucamunozgarcia.github.io/Main
+
+There you’ll find:
+
+* Complete project overviews
+* Latest updates
+* More detailed explanations
+* Additional tools and content
+
+## 📌 Note
+
+This page is still valid and may be used for specific purposes, but it is **not the complete hub** of everything I create.
+
+---
+
+If you have any questions or run into issues, feel free to reach out.
